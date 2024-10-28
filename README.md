@@ -1,4 +1,4 @@
 # study
 To study the git 
 <br>
-Author Parag
+Author Parag Yeole
